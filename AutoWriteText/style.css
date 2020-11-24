@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Galdeano&display=swap');
+
+body {
+    background-color: rebeccapurple;
+}
+#wrapper {
+    height: 500px;
+    display: grid;
+    place-items: center;
+    font-family: 'Galdeano', sans-serif;
+    font-size: 25px;
+    color: white;
+}
