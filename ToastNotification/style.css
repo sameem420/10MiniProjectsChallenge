@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Galdeano&display=swap');
+
+#wrapper {
+    /* height: 500px; */
+    display: grid;
+    place-items: center;
+    font-family: 'Galdeano', sans-serif;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+#btnToast {
+    color: white;
+    background-color: rgb(6, 129, 201);
+    font-family: 'Galdeano', sans-serif;
+    font-size: 20px;
+    height: 100px;
+    width: 300px;
+    border: 1px solid rgb(65, 54, 54);
+    border-radius: 20px;
+    outline: none;
+    padding: 1.5rem;
+}
+.toast {
+    background-color: rebeccapurple;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 25px;
+    margin: 0.5rem;
+}
