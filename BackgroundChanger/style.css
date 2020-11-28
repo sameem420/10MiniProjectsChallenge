@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    background-color: blueviolet;
+    color: white;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 2px 2px 6px rgba(rgb(26, 25, 25), rgb(111, 112, 111), rgb(174, 174, 182), 0.4);
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    width: 150px;
+    height: 50px;
+    transition: transform 0.1s linear;
+}
+button:active {
+    transform: translate(3px,3px);
+}
