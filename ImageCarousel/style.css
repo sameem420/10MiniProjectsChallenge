@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.carousel {
+    box-shadow: 2px 2px 5px rgba(218, 181, 181, 0.4);
+    overflow: hidden;
+    height: 500px;
+    width: 500px;
+}
+.image-container {
+    display: flex;
+    transition: transform 0.3s linear;
+    transform: translateX(0);
+}
+img {
+    object-fit: cover;
+    height: 500px;
+    width: 500px;
+}
