@@ -12,8 +12,8 @@
 | Heart Rain | Project Deployed Link |
 | Popup Modal | Project Deployed Link |
 | Dark-Mode Toggler | Project Deployed Link |
-| Project Name | Project Deployed Link |
-| Project Name | Project Deployed Link |
-| Project Name | Project Deployed Link |
+| Image Carousel | Project Deployed Link |
+| Sound Board | Project Deployed Link |
+| Zoom Effect | Project Deployed Link |
 
-&copy; 2020 Muhammad Sameem
+<p align="center">&copy; 2020 Muhammad Sameem</p>
