@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.btn {
+    background-color: rebeccapurple;
+    color: white;
+    height: 50px;
+    width: 200px;
+    margin: 5px;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+}
