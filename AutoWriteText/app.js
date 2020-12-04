@@ -1,4 +1,5 @@
-const myText = 'I am React/React Native Engineer';
+const myText = `Hello There!
+I am a React/React Native Engineer`;
 const divWrapper = document.getElementById('wrapper');
 
 let index = 0;

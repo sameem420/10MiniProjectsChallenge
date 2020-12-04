@@ -12,8 +12,9 @@ body {
     color: white;
 }
 #wrapper > div {
-    width: 600px;
+    width: 350px;
     box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
     background-color: #f1f1f1;
     color: darkslategray;
     margin: 10px;
