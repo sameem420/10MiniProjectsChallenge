@@ -1,4 +1,4 @@
-const btnBGChanger = document.getElementById('bgBTN');
+const btnBGChanger = document.getElementById('changebg');
 
 btnBGChanger.addEventListener('click', () => {
     document.body.style.background = randomBG();
