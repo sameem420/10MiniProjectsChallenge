@@ -12,7 +12,7 @@ body {
 }
 .image-container {
     display: flex;
-    transition: transform 0.3s linear;
+    transition: transform 0.5s ease-in-out;
     transform: translateX(0);
 }
 img {
