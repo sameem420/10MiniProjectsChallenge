@@ -9,10 +9,10 @@ function generateNotification() {
     const notification = document.createElement('div');
     notification.classList.add('toast');
 
-    notification.innerText = "Hi, I am a Toast!";
+    notification.innerText = "Hi There, I am a Toast!";
     divWrapper.appendChild(notification);
 
     setTimeout(() => {
         notification.remove();
-    }, 2000);
+    }, 5000);
 }

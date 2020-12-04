@@ -4,10 +4,19 @@ body {
     background-color: rebeccapurple;
 }
 #wrapper {
-    height: 500px;
-    display: grid;
-    place-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
     font-family: 'Galdeano', sans-serif;
     font-size: 25px;
     color: white;
+}
+#wrapper > div {
+    width: 600px;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);
+    background-color: #f1f1f1;
+    color: darkslategray;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
 }
