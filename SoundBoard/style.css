@@ -5,7 +5,11 @@ body {
     min-height: 100vh;
 }
 .btn {
-    background-color: rebeccapurple;
+    background-color: rgb(70, 56, 80);
+    background-image: url("../assets/images/play-button.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 50px 50px;
     color: white;
     height: 50px;
     width: 200px;
