@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Galdeano&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Texturina&display=swap');
 
 body {
@@ -43,4 +42,7 @@ button {
     color: white;
     width: 100px;
     height: 30px;
+}
+a {
+    text-decoration: none;
 }
