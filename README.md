@@ -33,7 +33,7 @@ Check the [MiniProjects](https://sameem420.github.io/10MiniProjectsChallenge/) w
 
 ## Author 👋 :
 
-- [@sameem420](https://github.com/sameem420)
+- [Muhammad Sameem](https://github.com/sameem420)
 
 ## License
 
