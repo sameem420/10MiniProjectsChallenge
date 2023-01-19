@@ -13,7 +13,7 @@
 <br>
 
 ## 📸 DEMO :
-Check the [MiniProjects](https://sameem420.github.io/10MiniProjectsChallenge/) websites to see what exciting projects you will be building| 
+Check the [MiniProjects](https://sameem420.github.io/10MiniProjectsChallenge/) websites to see what exciting projects you will be building
 <br><br>
 
 
